@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="412854a9-24f5-4c8b-9c0a-9a55919b32bc" name="Changes" comment="created web scalper project (converted python to java)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="412854a9-24f5-4c8b-9c0a-9a55919b32bc" name="Changes" comment="added specific comments">
       <change beforePath="$PROJECT_DIR$/WebScalper.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebScalper.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +56,19 @@
       <option name="project" value="LOCAL" />
       <updated>1678402174199</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added specific comments">
+      <created>1678402791898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678402791898</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created web scalper project (converted python to java)" />
-    <option name="LAST_COMMIT_MESSAGE" value="created web scalper project (converted python to java)" />
+    <MESSAGE value="added specific comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="added specific comments" />
   </component>
 </project>

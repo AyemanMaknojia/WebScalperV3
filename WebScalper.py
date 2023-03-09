@@ -9,7 +9,7 @@ driver = webdriver.Chrome();
 driver.get(sys.argv[2])
 #get the page source of the amazon item
 html_source = driver.page_source
-i=1
+i=0
 #keep going through the while loop until i is greater than a value (first arguement)
 while i<int(sys.argv[1]):
     #if an add to cart button is present in the page source then run the code inside if statement
